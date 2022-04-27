@@ -1,0 +1,17 @@
+{
+  "name": "cypress2",
+  "version": "1.0.0",
+  "description": "cypress2 cinema",
+  "main": "index.js",
+  "scripts": {
+    "cy:dash": "cypress run --record --key 3c3373d3-e0fd-4dca-912b-ce247b9bb012"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Chebykina-Xenia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
